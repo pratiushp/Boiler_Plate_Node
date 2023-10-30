@@ -5,8 +5,8 @@ SALT_ROUNDS=10
 JWT_SECRET= 54524235325asfas1x
 JWT_RESET_SECRET=fasngaliaf51a6sgz
 OTP_NUMBER = apple123ndsdsdfsdfs
-MAIL_PASSWORD= "umcxluunevjhctnk"
-MAIL_USERNAME = pratiushprasain2002@gmail.com
+MAIL_PASSWORD= "umcxluunevjhctndfsdfsaak"
+MAIL_USERNAME = useyourmail@gmail.com
 
 
 
